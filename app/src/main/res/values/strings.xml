@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">BodyMassApp</string>
+    <string name="app_name">iBMI</string>
+    <string name="berechnen">Berechnen</string>
+    <string name="groese_in_meter">Größe in Meter</string>
+    <string name="bmi">BMI</string>
+    <string name="gewicht_in_kg">Gewicht in KG</string>
 </resources>
